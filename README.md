@@ -10,6 +10,7 @@
 - bunq：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/bunq.png`
 - Coins.ph：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/CoinsPH.png`
 - Maya：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/Maya.png`
+- Monzo：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/Monzo.png`
 
 示例：
 
