@@ -11,6 +11,7 @@
 - Coins.ph：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/CoinsPH.png`
 - Maya：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/Maya.png`
 - Monzo：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/Monzo.png`
+- 西班牙：`https://raw.githubusercontent.com/beiming0000/loon-icons/main/Spain.png`
 
 示例：
 
